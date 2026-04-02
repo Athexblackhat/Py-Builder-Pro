@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/PYTHON-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/PYINSTALLER-5.0+-2ECC71?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/PyQt5-5.15+-FF6B35?style=for-the-badge&logo=qt&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/VERSION-2.1.0-00FF88?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/VERSION-1.5-00FF88?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
 
 <br/>
 
