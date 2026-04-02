@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pybuilder-pro-logo.svg" alt="Rapid Rotator - Ghost Protocol" width="800"/>
+  <img src="pybuilder-pro-logo.svg" alt="PY - BUILDER PRO" width="800"/>
 </p>
 
 <div align="center">
@@ -642,7 +642,7 @@ Found a bug?        Have an idea?       Improving docs?     Writing code?
 
 ```
 ─────────────────────────────────────────────────────
-  PyBuilder Pro v2.1.0  •  MIT License  •  2026
+  PyBuilder Pro v1.5.0  •  MIT License  •  2026
 ─────────────────────────────────────────────────────
 ```
 
